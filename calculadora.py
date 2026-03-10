@@ -4,3 +4,5 @@ operacao = input("Escolha a operação que deseja: ")
 
 if operacao == "+":
     print (num1 + num2)
+elif operacao == "-":
+    print (num1 - num2)
