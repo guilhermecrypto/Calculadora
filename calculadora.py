@@ -8,3 +8,5 @@ elif operacao == "-":
     print (num1 - num2)
 elif operacao == "*":
     print (num1 * num2)
+elif operacao == "/":
+    print (num1 / num2)
